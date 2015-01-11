@@ -1,0 +1,17 @@
+{
+  "name": "fibonacci-generator",
+  "version": "0.0.0",
+  "description": "Use es6 generators to construct a fibonacci sequence.",
+  "main": "index.js",
+  "dependencies": {
+    "es6-module-loader": "~0.11.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "es6",
+    "generators",
+    "fibonacci"
+  ],
+  "author": "Peter Doherty",
+  "license": "MIT"
+}
