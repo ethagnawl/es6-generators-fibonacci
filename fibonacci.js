@@ -16,8 +16,6 @@ function* fibonacci() {
 
     }
 
-    yield 1;
-
 }
 
 var gen = fibonacci();

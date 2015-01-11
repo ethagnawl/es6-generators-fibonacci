@@ -1,5 +1,6 @@
 {
   "name": "fibonacci-generator",
+  "private": true,
   "version": "0.0.0",
   "description": "Use es6 generators to construct a fibonacci sequence.",
   "main": "index.js",
